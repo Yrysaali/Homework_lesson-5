@@ -1,0 +1,168 @@
+/* &display=swap */
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@0,700;1,100;1,800&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Lobster:regular&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+@font-face {
+   font-family: "MoscowMetro";
+   src: url(../fonts/MoscowMetroRegular.woff) format("woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+/* ================================================================ */
+.wrapper {
+   min-height: 100%;
+   overflow: hidden;
+}
+/* ================================================================ */
+
+body {
+   font-family: "Alumni Sans", sans-serif;
+   font-size: 30px;
+   line-height: 25px;
+}
+
+header {
+   margin: 0 auto;
+}
+
+.tema {
+   font-size: 40px;
+   color: rgb(20, 20, 141);
+   text-shadow: 1px 3px 3px rgb(17, 56, 230);
+}
+.list li {
+   display: inline-block;
+   font-size: 20px;
+   text-transform: uppercase;
+   color: rgb(20, 20, 141);
+   padding: 15px 55px 0 0;
+   margin: 0 20px 10px 0;
+   font-family: Lobster, serif;
+}
+.fixed-container {
+   width: 960px;
+   margin: 30px auto;
+}
+
+.logo {
+   margin: 0 auto;
+   display: block;
+   max-width: 100%;
+}
+.logo-one {
+   max-width: 200px;
+   height: auto;
+}
+.menu-navigation {
+   width: 960px;
+   margin: 80px auto 20px;
+}
+
+.navigation {
+   width: 800px;
+   margin: -70px 50px 30px 300px;
+}
+
+.trophy,
+.hook,
+.building,
+.hourglass {
+   height: 100px;
+   width: 150px;
+}
+
+.conteiner-menu {
+   text-align: center;
+   width: 960px;
+   margin: 0 auto;
+}
+.menu-content {
+   padding: 0 85px 20px 0px;
+   display: inline-block;
+}
+.menu-text {
+   width: 350px;
+   padding: 22px 20px;
+}
+.spanish,
+.arbat,
+.avangard {
+   margin: 15px 200px;
+}
+.zagolovok {
+   margin: 30px;
+}
+.plan,
+.dvor {
+   width: 800px;
+   margin: 0 80px;
+}
+p {
+   margin: 15px 0 15px 0;
+}
+.avangard-one {
+   overflow: auto;
+   max-height: 300px;
+   font-size: 30px;
+}
+.zagolovok {
+   font-family: Lobster, serif;
+   font-size: 30px;
+   color: rgb(20, 20, 141);
+}
+
+.footer {
+   color: black;
+   font-size: 30px;
+   width: 960px;
+   margin: auto;
+}
+.sled {
+   font-family: "MoscowMetro";
+   font-size: 50px;
+   margin: 50px 50px;
+}
+
+.figma {
+   font-family: "Lato", sans-serif;
+   font-size: 16px;
+   font-weight: 400;
+   color: #424551;
+   max-width: 810px;
+   line-height: 25px;
+   margin: 0 auto;
+}
+.header-figma {
+   font-size: 46px;
+   font-weight: 900;
+   color: #1e212c;
+   line-height: 60px;
+   margin: 0 0 92px 0;
+}
+.text {
+   font-size: 20px;
+   font-weight: 700;
+   color: #1e212c;
+}
+.zitata {
+   font-size: 20px;
+   font-weight: 700;
+   color: #1e212c;
+   margin: 0 0 40px 62px;
+}
+.spisok {
+   text-indent: 16px;
+   line-height: 35px;
+}
+.klava {
+   margin: 0 0 68px 0;
+}
+p {
+   margin: 0 0 40px 0;
+}
+.spisok {
+   margin: 0 0 40px 15px;
+}
